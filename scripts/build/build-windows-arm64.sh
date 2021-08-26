@@ -1,0 +1,1 @@
+GOOS=windows GOARCH=arm64 go build -o bin/windows/arm64/pinger.exe

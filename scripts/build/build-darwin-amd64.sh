@@ -1,0 +1,1 @@
+GOOS=darwin GOARCH=amd64 go build -o bin/darwin/amd64/pinger
